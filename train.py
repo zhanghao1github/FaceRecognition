@@ -10,7 +10,6 @@ img_size = 48
 data_path = './data'
 model_path = './model'
 
-
 class Model:
     def __init__(self):
         self.model = None
