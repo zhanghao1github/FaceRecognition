@@ -89,7 +89,6 @@ while True:
         if cv2.waitKey(60) == ord('q'):
             break
 
-
 # 释放摄像头并销毁所有窗口
 capture.release()
 cv2.destroyAllWindows()
